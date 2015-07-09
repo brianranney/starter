@@ -1,9 +1,9 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: first post
 ---
 
-Hello world! ![internet-camp.png]({{site.baseurl}}/media/internet-camp.png)
 
+Hello world! ![internet-camp.png]({{site.baseurl}}/media/internet-camp.png)
